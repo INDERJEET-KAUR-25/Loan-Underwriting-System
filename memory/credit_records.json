@@ -1,0 +1,22 @@
+{
+    "APP001": {
+        "previous_loans": 2,
+        "missed_payments": 0,
+        "defaults": 0
+    },
+    "APP002": {
+        "previous_loans": 3,
+        "missed_payments": 4,
+        "defaults": 1
+    },
+    "APP003": {
+        "previous_loans": 1,
+        "missed_payments": 1,
+        "defaults": 0
+    },
+    "TEST003": {
+        "previous_loans": 2,
+        "missed_payments": 0,
+        "defaults": 0
+    }
+}
